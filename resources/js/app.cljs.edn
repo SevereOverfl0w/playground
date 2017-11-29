@@ -1,0 +1,3 @@
+{:require  [tabzilly.app]
+ :init-fns [tabzilly.app/init]
+ :compiler-options {:asset-path "js/app.out"}}
